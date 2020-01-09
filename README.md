@@ -2,29 +2,32 @@
 
 This are projects for the class Modelska analiza 2 (Model analysis 2)
 Unfortunaly they are in slovene. A fast summary:
-1. Analitical treatment of driving on road with trafic lights. With the help of variational principle.
-2. Optimization with linear programing. We had to construct A optimal diet from given list of foods.
-3. Thomson problem with numerical minimization.
-4. Simple population models: -foxes and rabbits (page 2)
-                             -laser with constant source from exitations (page 6)
-                             -model of epidemy, taking in account immunity (page 12)
-5. Moddeling of chemical reactions
-6. Linear fitting on data with different polinomials (Hermit, Legendre, Tchebishe). 
-7. Nonlinear fitting.
-8. Generators of random numbers. How to construct your own generator of gaussian numbers. How to construct random numbers with given distribution. Statistical tests.
-9. Integration Monte Carlo. Monte Carlo simulation of black body radiation of translucent ball. Monte Carlo simulation of neutron scattering on thin surface.
-10. Metropolis algorithm or simulated annealing. Cooling of molecular chain in gravitational field, ground state of 2D Ising model, and Travelling salesman problem for chinese cities (taking in acount also natural bariers etc.)
-11. Stochastic population models. (chapter 1) When will populations go extict for models with only deaths, with deaths and births.
-                                  (chapter 2) Population models with Stochastic matrix .
-                                  (chapter 3) Again rabbits and foxes model but now a stochastic one. Finding population that lives the
-                                  longest by try and error method.
-12. Analysis of a spectra with FFT. Deducing initial signal from white noise for 1D and 2D signal.
+1. Planet moving around sun, numerical errors, orbits, drifting of orbits. Comparison of different intagration methods (Euler, Lepfrog, Runge-Kutta). When alien planet passes through planetary system.
+2. Differential equations with boundary conditions. A rope on a spining rod fixed ob both ends. Poincaré map for star in a "galaxy". Periodic orbits from poincaré.
+3. Eigenstates and Eigenenergies for hydrogen athom's schrödinger equation with shooting method. Solving of Helmholtz equation.
+4. Hartree-Fock method.
+5. Partial differential equations (PDE): (chapter 1) Boundary problems and relaxation. Calculating Poiseuill coefficient for diferent                                             shapes of pipes, polving poisson equation with SOR.
+                                         (chapter 2) Heat transport on a cilinder.
+6. PDE: (chapter 1): Eigenstates on a vibrating homogeneous membrane.
+        (chapter 2): Eigenstates on a vibrating nonhomogeneous membrane.
+        (chapter 3): Eigenstates on a vibrating homogeneous semicircle membrane.
+7. Finite Element Method (FEM): Solving Poisson equation. Fluid transport through semicircle shaped pipe.
+8. FEM: Eigenstates on vibrating semicircle membrane.
+9. Boundary Element Method (BEM): (chapter 1) Electric field in 2D of charged strip.
+                                  (chapter 2) Velocity profile of a fluid around a shape (2D)
+10. Direct method for solving Poisson equation (with fourier transofrm).
+11. Movement of unelastic rope.
+12. Solving Navier-Stokes system of equations.
+
+13. Zaključna_naloga_Miha_srdinšek.
+Final project for the class Model Analysis 2. Poincare surface for point moving on a surface described by a membrane in gravitational field.
+
+14.TDS.
+Project for different class. Where I had to construct the poincare surface of a system of two spinning tops (equation of first page).
 
 
-Zaključna_naloga_Miha_srdinšek. Final project for the class Model Analysis 2. Poincare surface for point moving on a surface described by a membrane in gravitational field.
 
-TDS. Project for different class. Where I had to construct the poincare surface of a system of two spinning tops (equation of first page).
 
-(Code is also published, but is not clean enough. I will clean it when I will have time. For each project I had only 10 days and was a bit slopy. I can write much nicer code, as you can se in Advanced computational methods and even newer projects like master thesis.)
+(Code is also published, but is not clean enough. I will clean it when I will have time. For each project I had only 10 days and I was a bit slopy. I can write much nicer code, as you can se in Advanced computational methods and even newer projects like master thesis.)
 
 Grade 10/10
