@@ -19,7 +19,8 @@ Unfortunaly they are in slovene. A fast summary:
                                   (chapter 3) Again rabbits and foxes model but now a stochastic one. Finding population that lives the
                                   longest by try and error method.
 12. Analysis of a spectra with FFT. Deducing initial signal from white noise for 1D and 2D signal.
-13. Method of maximal enthropy. Linear interpolation.
+
+TDS. Project for different class. Where I had to construct the poincare surface of a system of two spinning tops (equation of first page).
 
 (Code is also published, but is not clean enough. I will clean it when I will have time. For each project I had only 10 days and was a bit slopy. I can write much nicer code, as you can se in Advanced computational methods and even newer projects like master thesis.)
 
