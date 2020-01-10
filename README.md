@@ -28,6 +28,6 @@ Project for different class. Where I had to construct the poincare surface of a 
 
 
 
-(Code is also published, but is not clean enough.)
+(Code is also published.)
 
 Grade 10/10
