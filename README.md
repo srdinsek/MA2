@@ -1,7 +1,7 @@
 # Modelska-analiza-2
 
-This are projects for the class Modelska analiza 2 (Model analysis 2)
-Unfortunaly they are in slovene. A fast summary:
+This are projects for the class Modelska analiza 2 (Model analysis 2).
+Unfortunately they are in slovene. A fast summary:
 1. Planet moving around sun, numerical errors, orbits, drifting of orbits. Comparison of different intagration methods (Euler, Lepfrog, Runge-Kutta). When alien planet passes through planetary system.
 2. Differential equations with boundary conditions. A rope on a spining rod fixed ob both ends. Poincaré map for star in a "galaxy". Periodic orbits from poincaré.
 3. Eigenstates and Eigenenergies for hydrogen athom's schrödinger equation with shooting method. Solving of Helmholtz equation.
