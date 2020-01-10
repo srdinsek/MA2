@@ -28,6 +28,6 @@ Project for different class. Where I had to construct the poincare surface of a 
 
 
 
-(Code is also published, but is not clean enough. I will clean it when I will have time. For each project I had only 10 days and I was a bit slopy. I can write much nicer code, as you can se in Advanced computational methods and even newer projects like master thesis.)
+(Code is also published, but is not clean enough.)
 
 Grade 10/10
